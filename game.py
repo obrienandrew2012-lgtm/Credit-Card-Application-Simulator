@@ -1,5 +1,5 @@
-print("Welcome to Credit Card Application Simulator!")
-print("this is accurate to real life (NO HE'S LYING)")
+input("Welcome to Credit Card Application Simulator!")
+input("this is accurate to real life (NO HE'S LYING)")
 age = int(input("enter age here "))
 print(age)
 q1 = int(input("ok so now i have to ask you what is the square root of 64 "))
